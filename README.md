@@ -7,7 +7,7 @@ This is my primary project focused on user journey and monetization.
  **Objective:** Analyze how different registration cohorts convert to trial and paid subscriptions.
  **Key Metrics:** Conversion Rate (CR), Retention, User Growth.
  **Technical Skills:** LOD Expressions (FIXED), Cohort Heatmaps, Funnel Visualization.
- [View on Tableau Public](https://public.tableau.com/views/CohortAnalysisRegistrationsConversionRates/CohortAnalysisRegistrationsConversionRates)
+ [View on Tableau Public](https://public.tableau.com/views/CohortAnalysisRegistrationsConversionRates/CohortAnalysisRegistrationsConversionRates?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 2. Business Growth Overview 2022-2023
 A high-level executive dashboard showing global business performance.
